@@ -4,7 +4,7 @@ from django.db import models
 from django.contrib.auth.models import User
 
 #Question model
-#title - заголовок вопроса
+##title - заголовок вопроса
 #text - полный текст вопроса
 #added_at - дата добавления вопроса
 #rating - рейтинг вопроса (число)
